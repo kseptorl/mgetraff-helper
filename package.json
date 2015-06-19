@@ -1,6 +1,6 @@
 {
   "name": "mgetraff-helper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Helper with some nice functionality",
   "main": "dist/index.js",
   "scripts": {

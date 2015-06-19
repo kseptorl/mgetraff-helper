@@ -1,6 +1,5 @@
 # mgetraff-helper
 
-## Module [![Build Status][travis-image]][travis-url]
 [![NPM][npm-image]][npm-url]
 
 ## Install
@@ -39,14 +38,11 @@ VERSION
 #### 0.0.1
 * Initial commit
 
-[travis-image]: https://travis-ci.org/nhz-io/module.svg
-[travis-url]: https://travis-ci.org/nhz-io/module
+[npm-image]: https://nodei.co/npm/mgetraff-helper
+[npm-url]: https://nodei.co/npm/mgetraff-helper
 
-[npm-image]: https://nodei.co/npm/module
-[npm-url]: https://nodei.co/npm/module
+[jsperf-url]: http://jsperf.com/mgetraff-helper
 
-[jsperf-url]: http://jsperf.com/module
-
-[dist-browser-js-url]: https://github.com/nhz-io/module.js
-[min-dist-browser-js-url]: https://github.com/nhz-io/module.min.js
-[pack-min-dist-browser-js-url]: https://github.com/nhz-io/module.pack.min.js
+[dist-browser-js-url]: https://github.com/kseptorl/mgetraff-helper/module.js
+[min-dist-browser-js-url]: https://github.com/kseptorl/mgetraff-helper/module.min.js
+[pack-min-dist-browser-js-url]: https://github.com/kseptorl/mgetraff-helper/module.pack.min.js
