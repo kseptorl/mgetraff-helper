@@ -1,11 +1,11 @@
-# module
+# mgetraff-helper
 
 ## Module [![Build Status][travis-image]][travis-url]
 [![NPM][npm-image]][npm-url]
 
 ## Install
 ```
-npm install --save module
+npm install --save mgetraff-helper
 ```
 
 ## Browser
@@ -16,13 +16,13 @@ npm install --save module
 ## Usage
 
 ```coffeescript
-module = require 'module'
+helper = require 'mgetraff-helper'
 ```
 
 ## Build
 ```
-git clone https://github.com/nhz-io/module.git
-cd module
+git clone https://github.com/kseptorl/mgetraff-helper.git
+cd mgetraff-helper
 npm install
 gulp
 ```
